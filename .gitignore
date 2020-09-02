@@ -1,0 +1,13 @@
+# Environments
+venv
+env
+virtualenv
+
+# Robot report files
+**-screenshot**.png
+report.html
+output.xml
+log.html
+
+# VS Code
+.vscode
